@@ -1,5 +1,9 @@
 # The Vetting Loop Protocol
 
+<p align="center">
+  <img src="./assets/vetting-loop-flow.png" alt="NSC Tech Hub Vetting Loop" width="800">
+</p>
+
 The Vetting Loop is the mandatory quality assurance process that all project assets and logic must pass through.
 
 ## 🔄 The Three-Stage Process
